@@ -23,3 +23,38 @@ The awesome repositories are a great and comprehensible source of materials, lis
 - [awesome-vue-refactor](https://github.com/brillout/awesome-vue-refactor)
 - [awesome-redux](https://github.com/brillout/awesome-redux)
 - [awesome-universal-rendering](https://github.com/brillout/awesome-universal-rendering)
+
+
+## Favorites 
+
+### Functional Programming
+
+- [rambda](https://ramdajs.com/)
+- [lodash/fp](https://lodash.com/)
+- [luminous](https://github.com/imgix/luminous)
+
+### Data
+
+- [d3](https://d3js.org/)
+
+### Markup
+
+- [github emojis](https://gist.github.com/rxaviers/7360908)
+
+### UI 
+
+- [beautiful gradients](https://www.grabient.com/)
+- [react spring animations](https://www.react-spring.io/)
+
+### React
+
+- [react icons](https://react-icons.netlify.com/#/)
+
+### Typescript
+
+- [Ts cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
+
+### State Management
+
+- [mobx](https://mobx-state-tree.js.org/intro/philosophy)
+- [redux](https://redux.js.org/)
