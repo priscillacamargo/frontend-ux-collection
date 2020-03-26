@@ -9,3 +9,17 @@ In the Readme.md you can find mostly usefull libraries while in the References.m
 This project is made with :sparkling_heart: love, :sparkles: care and :star2: respect.
 
 
+## List of Existing Collections
+
+The awesome repositories are a great and comprehensible source of materials, listing very useful components and libraries for frontend development, frameworks etc...
+
+- [awesome](https://github.com/brillout/awesome)
+- [awesome-frontend-libraries](https://github.com/brillout/awesome-frontend-libraries)
+- [awesome-frontend](https://github.com/syaning/awesome-frontend)
+- [awesome-web-apps](https://github.com/brillout/awesome-web-apps)
+- [awesome-react-components](https://github.com/brillout/awesome-react-components)
+- [awesome-angular-components](https://github.com/brillout/awesome-angular-components)
+- [awesome-vue](https://github.com/brillout/awesome-vue)
+- [awesome-vue-refactor](https://github.com/brillout/awesome-vue-refactor)
+- [awesome-redux](https://github.com/brillout/awesome-redux)
+- [awesome-universal-rendering](https://github.com/brillout/awesome-universal-rendering)
